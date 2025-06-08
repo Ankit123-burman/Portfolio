@@ -17,7 +17,7 @@ function Profile() {
         <div className="btn-container">
           <a
             href={Resume}
-            download="PriyanshuResume.pdf"
+            download="Priyanshu burman frontend resume.pdf"
             className="btn btn-color-1"
           >
             Download CV
