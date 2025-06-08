@@ -2,7 +2,7 @@ import React from 'react';
 import linkedin from '../assets/linkedin.png';
 import github from '../assets/github.png';
 import ProfileImage from '../assets/image4555.png';
-import Resume from '../assets/PriyanshuResumee.pdf'
+import Resume from '../assets/Priyanshu burman frontend resume.pdf'
 
 function Profile() {
   return (
